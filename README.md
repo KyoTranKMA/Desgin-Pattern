@@ -16,8 +16,7 @@
 
 8 - [Bridge Pattern | Mức độ khó (★★★☆☆) | Mức độ phổ biến (★★★☆☆)](https://www.youtube.com/watch?v=0CuTOeCKbjM&list=PLw0w5s5b9NK7TSuHpxOMvVtRuaEgHQczQ&index=11&pp=iAQB)
 
-9 - [Adapter Pattern | Mức độ khó (★★☆☆☆) | Mức độ phổ biến (★★★★☆)](https://www.youtube.com/watch?v=cUNoGD7sR-g&list=PLw0w5s5b9NK7TSuHpxOMvVtRuaEgHQczQ&index=10&pp=iAQB)
-
+9 - [Adapter Pattern | Mức độ khó (★★☆☆☆) | Mức độ phổ biến (★★★★☆)](https://www.youtube.com/watch?v=cUNoGD7sR-g&list=PLw0w5s5b9NK7TSuHpxOMvVtRuaEgHQczQ&index=10&pp=iAQ)✅
 10 - [Builder Pattern | Mức độ khó (★★★★☆) | Mức độ phổ biến (★★☆☆☆)](https://www.youtube.com/watch?v=j-oCmwWggjY&list=PLw0w5s5b9NK7TSuHpxOMvVtRuaEgHQczQ&index=9&pp=iAQB)
 
 11 - [Visitor Pattern | Mức độ khó (★★★★☆) | Mức độ phổ biến (★☆☆☆☆) | Updating...](https://www.youtube.com/playlist?list=PLw0w5s5b9NK7TSuHpxOMvVtRuaEgHQczQ)
